@@ -389,4 +389,4 @@ Then refine `HTTP_FATAL_REGEX` if needed.
 
 ## License
 
-MIT, GPL, or your preferred license. Add a `LICENSE` file before publishing publicly.
+GNU General Public License v3.0
